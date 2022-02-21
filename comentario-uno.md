@@ -5,3 +5,10 @@ Vivimos gran parte de nuestro tiempo mirando una pantalla, investigando redes so
 En este marco, el periodismo de datos se enfrenta a un gran reto: competir por la atención del público, pero teniendo mucho cuidado de no dejarse llevar por dicha competición hasta el punto de que se pierda el foco de la información objetiva. 
 
 Como audiencia, nosotros también tenemos nuestra tarea. Ante semejante cantidad de información, hemos de ser **críticos**. Tenemos que aprender a seleccionar nuestras fuentes de confianza, tanto por fiabilidad como por reducir cantidad, para así cuidarnos de no perder la sensibilidad ante la gravedad de las noticias que se nos presentan. A menudo es mejor profundizar en un problema y ser verdaderamente consciente de su significado (como ocurría con los participantes en la encuesta del artículo, las personas que decidieron seguir informándose del tema fueron las que pudieron tomar mejor una decisión sobre su uso de las redes) para poder tomar decisiones reales, que intentar abarcar conocimiento sobre todos los ámbitos de actualidad. 
+
+#Comentario 2: *Desconfianza y desinformación: el reto de los científicos*
+El proyecto **TRESCA** es una gran iniciativa para acabar con los bulos y la desinformación. Son un problema que viene de largo a raíz de la globalización y las redes sociales, pero se han convertido en un conflicto estructural especialmente durante la pandemia. 
+
+A día de hoy, más de un año después del comienzo de la vacunación, la difusión de información falsa sobre las mascarillas y sobre todo de las vacunas crea movilizaciones sociales promoviendo la repulsión a este medicamento produciendo una ruptura de la convivencia, imposibilitando la realización de un plan común y eficaz para erradicar el virus y perjudicando el estado de la salud pública. 
+
+Ante semejante panorama, es esencial la creación de proyectos como TRESCA que restauren la credibilidad en la ciencia y en la medicina, asegurando a su vez el progreso y la paz social. 
